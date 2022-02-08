@@ -1,3 +1,5 @@
 # IBM-data-science-capstone-project
 
-Project notebooks are in the master branch
+Welcome to the final milestone in my Coursera IBM data science journey.
+
+For your objective perusal.
